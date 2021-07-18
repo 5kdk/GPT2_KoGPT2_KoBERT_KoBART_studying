@@ -1,8 +1,9 @@
 #Extension
 *.csv
 *.jsonl
-
+*.txt
 
 #Folder
 datasets/
+test_txt/
 
