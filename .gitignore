@@ -1,9 +1,14 @@
 #Extension
 *.csv
+*.json
 *.jsonl
 *.txt
+*.h5
+*.spiece
 
 #Folder
 datasets/
 test_txt/
-
+gpt2/
+gpt_ckpt/
+data_out/
