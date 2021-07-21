@@ -5,6 +5,7 @@
 *.txt
 *.h5
 *.spiece
+*.exe
 
 #Folder
 datasets/
@@ -12,3 +13,4 @@ test_txt/
 gpt2/
 gpt_ckpt/
 data_out/
+models/
